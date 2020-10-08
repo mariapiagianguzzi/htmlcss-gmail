@@ -1,0 +1,27 @@
+body{
+  width: 1000px;
+  margin: auto;
+  background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+}
+#number{
+  background-color: orange;
+  padding: 5px;
+  border-radius: 50%;
+
+}
+h2{
+  color: white;
+}
+#row{
+  background-color: grey;
+}
+footer{
+  text-align: center;
+  color: white;
+}
+.titolo{
+  color: white;
+}
+#line{
+  color: withe
+}
